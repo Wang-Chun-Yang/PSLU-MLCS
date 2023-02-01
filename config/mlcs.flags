@@ -1,0 +1,11 @@
+-v=100
+-alsologtostderr=true
+-log_dir=../log/
+-dump=false
+-json_file=../resource/dump/mlcs.json
+
+-strategy=Top
+-debug_suctable=false
+-debug_detail=false
+-seq_file=../resource/seqs/40_90.txt
+-need_heuristic_length=5
