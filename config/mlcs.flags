@@ -7,5 +7,5 @@
 -strategy=Top
 -debug_suctable=false
 -debug_detail=false
--seq_file=../resource/seqs/40_90.txt
+-seq_file=../instances/file_name.txt
 -need_heuristic_length=5
